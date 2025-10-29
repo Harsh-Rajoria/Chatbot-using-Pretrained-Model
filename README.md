@@ -18,22 +18,6 @@ It uses the **facebook/blenderbot-400M-distill** model from Hugging Face to gene
 
 ---
 
-## 🧩 Project Structue
-
-chatbot/
-│
-├── frontend/
-│   ├── app.py              # Streamlit user interface
-│   ├── requirements.txt    # Frontend dependencies
-│   └── README.md           # Documentation file (this one)
-│
-└── backend/
-├── server.py           # FastAPI backend with Hugging Face model
-├── requirements.txt    # Backend dependencies
-└── Procfile            # Deployment configuration (optional)
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
